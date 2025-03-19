@@ -1,0 +1,50 @@
+.custom-navbar {
+    background-color: rgb(255, 255, 235)!important; 
+    padding: 15px;
+  }
+  
+  .custom-navbar .nav-link {
+    color: black !important;
+    font-size: 18px;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #f39c12 !important;
+  }
+
+  .ms-auto{
+    align-items: center;
+    margin-right: 30%;
+    gap: 40px;
+  }
+
+  .head{
+    color: black;
+    font-weight: bold;
+    font-size: 1.8rem;
+  }
+
+  .carousel>img{
+    height: 650px;
+  }
+
+  .bcontent{
+    top: 20%;
+    right: -2%;
+    color: black;
+    max-width: 35%;
+  }
+
+  .bcontent>h3{
+    font-size: 3rem;
+  }
+
+  .login{
+    width: 70%;
+    height: auto;
+  }
+
+  .title{
+    font-weight: bold;
+  }
+  
